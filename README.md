@@ -60,11 +60,7 @@ Gold prices fluctuate every day, making it challenging for buyers to make inform
 - Added trend analysis charts to help understand price directions for better decision-making.
 
 ## Dashboard
-[![Watch the demo](https://github.com/user-attachments/assets/3badddd0-345d-4d36-95cd-b8562b7bda01)](https://github.com/user-attachments/assets/9559af7c-70d5-4d28-8ecb-7b27dfb681e7)
-
-
-
-
+[![Watch the demo](https://github.com/user-attachments/assets/3badddd0-345d-4d36-95cd-b8562b7bda01)](https://github.com/user-attachments/assets/25fb84d3-e612-4b40-9843-300d3abb7100)
 
 
 ## Potential Use Cases
